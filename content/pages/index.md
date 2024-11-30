@@ -90,7 +90,7 @@ sections:
           altText: First item image
         actions:
           - type: Button
-            label: with a cumulative trade of 200 lots
+            label: worth $400
             url: ''
             size: small
             variant: text
