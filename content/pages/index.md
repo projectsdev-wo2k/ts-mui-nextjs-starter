@@ -96,9 +96,8 @@ sections:
             color: primary
       - type: Card
         title: AIRPODS 4
-        text: |+
-          with a cumulative trade of **100 lots**
-
+        text: |
+          **worth $200**
         image:
           type: Image
           url: /images/4-Airpods.png
