@@ -80,7 +80,7 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Card
-        title: DYSON COOL TOWER FAN
+        title: Dyson
         text: |
           with a cumulative trade of** 200 lots**
         image:
