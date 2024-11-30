@@ -89,7 +89,7 @@ sections:
           altText: First item image
         actions:
           - type: Button
-            label: Learn more
+            label: with a cumulative trade of 200 lots
             url: /
             size: medium
             variant: text
