@@ -25,7 +25,7 @@
         ]
     },
     "footer": {
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/).",
+        "copyrightText": "Powered by [UM](https://www.netlify.com/)\n",
         "navLinks": [
             {
                 "type": "Link",
