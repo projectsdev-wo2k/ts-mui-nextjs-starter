@@ -104,7 +104,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/herman1.png
+          url: /images/4-Airpods.png
           altText: Second item image
         actions:
           - type: Button
