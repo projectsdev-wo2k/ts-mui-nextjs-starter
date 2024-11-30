@@ -81,8 +81,9 @@ sections:
     items:
       - type: Card
         title: DYSON COOL TOWER FAN
-        text: |
-          worth $400
+        text: |+
+          with a cumulative trade of 2**00 lots**
+
         image:
           type: Image
           url: /images/5-Dyson.png
