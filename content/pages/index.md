@@ -112,10 +112,9 @@ sections:
             color: inherit
       - type: Card
         title: DJI Osmo 3
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |+
+          with a cumulative trade of 3**00 lots**
+
         image:
           type: Image
           url: /images/6-Osmo.png
