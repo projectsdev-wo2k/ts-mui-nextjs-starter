@@ -91,7 +91,7 @@ sections:
           - type: Button
             label: with a cumulative trade of 200 lots
             url: ''
-            size: large
+            size: small
             variant: text
             color: inherit
       - type: Card
