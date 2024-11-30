@@ -106,7 +106,7 @@ sections:
           - type: Button
             label: worth $200
             url: ''
-            size: medium
+            size: small
             variant: text
             color: inherit
       - type: Card
