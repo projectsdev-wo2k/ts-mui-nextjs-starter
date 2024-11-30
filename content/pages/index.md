@@ -121,7 +121,7 @@ sections:
           altText: Third item image
         actions:
           - type: Button
-            label: worth
+            label: worth $600
             url: ''
             size: medium
             variant: text
