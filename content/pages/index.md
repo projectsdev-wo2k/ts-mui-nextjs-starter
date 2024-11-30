@@ -124,6 +124,6 @@ sections:
             label: worth $600
             url: ''
             size: small
-            variant: contained
+            variant: text
             color: inherit
 ---
