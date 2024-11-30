@@ -125,5 +125,5 @@ sections:
             url: ''
             size: medium
             variant: text
-            color: inherit
+            color: secondary
 ---
