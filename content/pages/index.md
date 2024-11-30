@@ -123,7 +123,7 @@ sections:
           - type: Button
             label: worth $600
             url: ''
-            size: small
+            size: medium
             variant: text
             color: inherit
 ---
