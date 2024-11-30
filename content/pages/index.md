@@ -95,7 +95,7 @@ sections:
             variant: text
             color: inherit
       - type: Card
-        title: Airpods 4
+        title: Apple AirPods 4
         text: |+
           with a cumulative trade of **100 lots**
 
