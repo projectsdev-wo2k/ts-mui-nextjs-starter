@@ -87,7 +87,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/Ergotron2.png
+          url: /images/5-Dyson.png
           altText: First item image
         actions:
           - type: Button
