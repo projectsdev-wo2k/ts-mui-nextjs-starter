@@ -97,7 +97,7 @@ sections:
       - type: Card
         title: AIRPODS 4
         text: |
-          **worth $200**
+          worth $200
         image:
           type: Image
           url: /images/4-Airpods.png
