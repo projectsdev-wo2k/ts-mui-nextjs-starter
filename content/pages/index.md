@@ -90,7 +90,7 @@ sections:
         actions:
           - type: Button
             label: with a cumulative trade of 200 lots
-            url: /
+            url: ''
             size: medium
             variant: text
             color: primary
