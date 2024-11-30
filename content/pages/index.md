@@ -81,10 +81,8 @@ sections:
     items:
       - type: Card
         title: DYSON COOL TOWER FAN
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          with a cumulative trade of **200 standard lots**
         image:
           type: Image
           url: /images/5-Dyson.png
