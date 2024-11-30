@@ -121,7 +121,7 @@ sections:
           altText: Third item image
         actions:
           - type: Button
-            label: Learn more
+            label: worth
             url: ''
             size: medium
             variant: text
