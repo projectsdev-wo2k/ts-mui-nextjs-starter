@@ -108,7 +108,7 @@ sections:
             url: /
             size: medium
             variant: text
-            color: primary
+            color: inherit
       - type: Card
         title: Third Item Title
         text: >-
