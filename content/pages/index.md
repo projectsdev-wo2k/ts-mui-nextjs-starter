@@ -93,7 +93,7 @@ sections:
             url: ''
             size: medium
             variant: text
-            color: primary
+            color: inherit
       - type: Card
         title: AIRPODS 4
         text: |
