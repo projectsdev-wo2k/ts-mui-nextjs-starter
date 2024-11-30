@@ -24,7 +24,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/10-Asus.png
+      url: /images/Asus.png
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Title
