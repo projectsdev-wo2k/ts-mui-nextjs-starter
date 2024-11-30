@@ -82,7 +82,7 @@ sections:
       - type: Card
         title: DYSON COOL TOWER FAN
         text: |
-          with a cumulative trade of **200 standard lots**
+          with a cumulative trade of **200 lots**
         image:
           type: Image
           url: /images/5-Dyson.png
