@@ -111,7 +111,7 @@ sections:
             variant: text
             color: inherit
       - type: Card
-        title: Third Item Title
+        title: DJI
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
